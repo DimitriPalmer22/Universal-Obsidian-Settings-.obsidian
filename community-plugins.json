@@ -18,5 +18,7 @@
   "omnisearch",
   "obsidian-doubleshift",
   "dataview",
-  "obsidian-git"
+  "obsidian-git",
+  "execute-code",
+  "cm-editor-syntax-highlight-obsidian"
 ]
