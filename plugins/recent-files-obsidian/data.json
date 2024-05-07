@@ -5,6 +5,10 @@
       "path": "Home.md"
     },
     {
+      "basename": "01 - Projects - About",
+      "path": "01 - Projects/01 - Projects - About.md"
+    },
+    {
       "basename": "Test Note",
       "path": "Test Note.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "02 - Areas - About",
       "path": "02 - Areas/02 - Areas - About.md"
-    },
-    {
-      "basename": "01 - Projects - About",
-      "path": "01 - Projects/01 - Projects - About.md"
     },
     {
       "basename": "00 - Maps of Content - About",
