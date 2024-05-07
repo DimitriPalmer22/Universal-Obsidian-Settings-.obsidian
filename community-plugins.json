@@ -16,5 +16,7 @@
   "obsidian-importer",
   "table-editor-obsidian",
   "omnisearch",
-  "obsidian-doubleshift"
+  "obsidian-doubleshift",
+  "dataview",
+  "obsidian-git"
 ]

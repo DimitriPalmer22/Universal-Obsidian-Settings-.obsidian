@@ -41,6 +41,7 @@ Home
 Page
 Projects
 Permanent
+Programming
 Areas
 Archives
 About
@@ -48,6 +49,7 @@ wider
 file
 for
 future
+folder
 meant
 my
 home
@@ -79,6 +81,7 @@ Maps
 Meta
 More
 Content
+Coding
 Resources
 Resource
 Fleeting
@@ -88,3 +91,5 @@ be
 between
 jumping
 Use
+Sharp
+Language

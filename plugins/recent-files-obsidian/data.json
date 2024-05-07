@@ -5,6 +5,18 @@
       "path": "Home.md"
     },
     {
+      "basename": "Coding Language",
+      "path": "02 - Areas/Coding/Languages/Coding Language.md"
+    },
+    {
+      "basename": "C Sharp",
+      "path": "02 - Areas/Coding/Languages/C Sharp/C Sharp.md"
+    },
+    {
+      "basename": "00 - Maps of Content - About",
+      "path": "00 - Maps of Content/00 - Maps of Content - About.md"
+    },
+    {
       "basename": "01 - Projects - About",
       "path": "01 - Projects/01 - Projects - About.md"
     },
@@ -39,10 +51,6 @@
     {
       "basename": "02 - Areas - About",
       "path": "02 - Areas/02 - Areas - About.md"
-    },
-    {
-      "basename": "00 - Maps of Content - About",
-      "path": "00 - Maps of Content/00 - Maps of Content - About.md"
     }
   ],
   "omittedPaths": [],
