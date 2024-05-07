@@ -15,12 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
-    },
-    {
-      "folder": "",
-      "template": ""
+      "folder": "02 - Areas/Coding",
+      "template": "Templates/Templater/Coding Language Template.md"
     }
   ],
   "syntax_highlighting": true,

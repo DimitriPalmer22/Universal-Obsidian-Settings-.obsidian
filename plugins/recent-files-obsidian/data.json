@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Object Oriented Programming (OOP)",
+      "path": "04 - Permanent/Coding/Object Oriented Programming/Object Oriented Programming (OOP).md"
+    },
+    {
+      "basename": "Application Programming Interface (API)",
+      "path": "04 - Permanent/Coding/Application Programming Interface (API)/Application Programming Interface (API).md"
+    },
+    {
+      "basename": "Coding Language",
+      "path": "04 - Permanent/Coding/Languages/Coding Language.md"
+    },
+    {
+      "basename": "Polymorphism",
+      "path": "04 - Permanent/Coding/Object Oriented Programming/Polymorphism.md"
+    },
+    {
+      "basename": "Interface",
+      "path": "04 - Permanent/Coding/Object Oriented Programming/Interface.md"
+    },
+    {
+      "basename": "Inheritance",
+      "path": "04 - Permanent/Coding/Object Oriented Programming/Inheritance.md"
+    },
+    {
       "basename": "C Sharp",
-      "path": "02 - Areas/Coding/Languages/C Sharp/C Sharp.md"
+      "path": "04 - Permanent/Coding/Languages/C Sharp/C Sharp.md"
+    },
+    {
+      "basename": "Class",
+      "path": "04 - Permanent/Coding/Object Oriented Programming/Class.md"
     },
     {
       "basename": "Coding Language Template",
       "path": "Templates/Templater/Coding Language Template.md"
-    },
-    {
-      "basename": "Coding Language",
-      "path": "02 - Areas/Coding/Languages/Coding Language.md"
     },
     {
       "basename": "New File Template",

@@ -36,6 +36,7 @@ areas
 as
 and
 achieve
+an
 obsidian
 of
 or
@@ -71,6 +72,7 @@ link
 like
 linking
 last
+language
 content
 completion
 cooking
@@ -111,5 +113,6 @@ Use
 Sharp
 Snippet
 Language
+Languages
 YYYY
 Word
