@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Dynamic Binding",
-      "path": "04 - Permanent/Coding/Object Oriented Programming/Dynamic Binding.md"
-    },
-    {
       "basename": "Object Oriented Programming (OOP)",
       "path": "04 - Permanent/Coding/Object Oriented Programming/Object Oriented Programming (OOP).md"
+    },
+    {
+      "basename": "Class",
+      "path": "04 - Permanent/Coding/Object Oriented Programming/Class.md"
+    },
+    {
+      "basename": "Data Type",
+      "path": "04 - Permanent/Coding/Data Type.md"
+    },
+    {
+      "basename": "Function",
+      "path": "04 - Permanent/Coding/Function.md"
+    },
+    {
+      "basename": "Encapsulation",
+      "path": "04 - Permanent/Coding/Object Oriented Programming/Encapsulation.md"
+    },
+    {
+      "basename": "Message Passing",
+      "path": "04 - Permanent/Coding/Object Oriented Programming/Message Passing.md"
+    },
+    {
+      "basename": "Dynamic Binding",
+      "path": "04 - Permanent/Coding/Object Oriented Programming/Dynamic Binding.md"
     },
     {
       "basename": "Abstraction",
@@ -19,10 +39,6 @@
     {
       "basename": "Object",
       "path": "04 - Permanent/Coding/Object Oriented Programming/Object.md"
-    },
-    {
-      "basename": "Class",
-      "path": "04 - Permanent/Coding/Object Oriented Programming/Class.md"
     },
     {
       "basename": "Inheritance",

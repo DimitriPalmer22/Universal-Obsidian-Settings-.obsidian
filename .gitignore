@@ -1,3 +1,6 @@
 workspace.json
 
 plugins/recent-files-obsidian/data.json
+graph.json
+plugins/obsidian-completr/scanned_words.txt
+plugins/recent-files-obsidian/data.json
