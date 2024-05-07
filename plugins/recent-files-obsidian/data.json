@@ -1,8 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "Dynamic Binding",
+      "path": "04 - Permanent/Coding/Object Oriented Programming/Dynamic Binding.md"
+    },
+    {
       "basename": "Object Oriented Programming (OOP)",
       "path": "04 - Permanent/Coding/Object Oriented Programming/Object Oriented Programming (OOP).md"
+    },
+    {
+      "basename": "Abstraction",
+      "path": "04 - Permanent/Coding/Object Oriented Programming/Abstraction.md"
+    },
+    {
+      "basename": "Interface",
+      "path": "04 - Permanent/Coding/Object Oriented Programming/Interface.md"
+    },
+    {
+      "basename": "Object",
+      "path": "04 - Permanent/Coding/Object Oriented Programming/Object.md"
+    },
+    {
+      "basename": "Class",
+      "path": "04 - Permanent/Coding/Object Oriented Programming/Class.md"
+    },
+    {
+      "basename": "Inheritance",
+      "path": "04 - Permanent/Coding/Object Oriented Programming/Inheritance.md"
+    },
+    {
+      "basename": "C Sharp",
+      "path": "04 - Permanent/Coding/Languages/C Sharp/C Sharp.md"
+    },
+    {
+      "basename": "04 - Permanent - About",
+      "path": "04 - Permanent/04 - Permanent - About.md"
+    },
+    {
+      "basename": "06 - Daily - About",
+      "path": "06 - Daily/06 - Daily - About.md"
+    },
+    {
+      "basename": "02 - Areas - About",
+      "path": "02 - Areas/02 - Areas - About.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "00 - Maps of Content - About",
+      "path": "00 - Maps of Content/00 - Maps of Content - About.md"
+    },
+    {
+      "basename": "05 - Fleeting - About",
+      "path": "05 - Fleeting/05 - Fleeting - About.md"
     },
     {
       "basename": "Application Programming Interface (API)",
@@ -17,22 +69,6 @@
       "path": "04 - Permanent/Coding/Object Oriented Programming/Polymorphism.md"
     },
     {
-      "basename": "Interface",
-      "path": "04 - Permanent/Coding/Object Oriented Programming/Interface.md"
-    },
-    {
-      "basename": "Inheritance",
-      "path": "04 - Permanent/Coding/Object Oriented Programming/Inheritance.md"
-    },
-    {
-      "basename": "C Sharp",
-      "path": "04 - Permanent/Coding/Languages/C Sharp/C Sharp.md"
-    },
-    {
-      "basename": "Class",
-      "path": "04 - Permanent/Coding/Object Oriented Programming/Class.md"
-    },
-    {
       "basename": "Coding Language Template",
       "path": "Templates/Templater/Coding Language Template.md"
     },
@@ -41,16 +77,8 @@
       "path": "Templates/Templater/New File Template.md"
     },
     {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
       "basename": "Test Note",
       "path": "Test Note.md"
-    },
-    {
-      "basename": "00 - Maps of Content - About",
-      "path": "00 - Maps of Content/00 - Maps of Content - About.md"
     },
     {
       "basename": "01 - Projects - About",
@@ -65,24 +93,8 @@
       "path": "07 - Archives/07 - Archives - About.md"
     },
     {
-      "basename": "06 - Daily - About",
-      "path": "06 - Daily/06 - Daily - About.md"
-    },
-    {
-      "basename": "04 - Permanent - About",
-      "path": "04 - Permanent/04 - Permanent - About.md"
-    },
-    {
-      "basename": "05 - Fleeting - About",
-      "path": "05 - Fleeting/05 - Fleeting - About.md"
-    },
-    {
       "basename": "03 - Resources - About",
       "path": "03 - Resources/03 - Resources - About.md"
-    },
-    {
-      "basename": "02 - Areas - About",
-      "path": "02 - Areas/02 - Areas - About.md"
     }
   ],
   "omittedPaths": [],

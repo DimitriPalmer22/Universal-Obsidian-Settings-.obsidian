@@ -24,6 +24,7 @@ two
 types
 tp
 th
+tasks
 vault
 sudo
 scope
@@ -41,6 +42,7 @@ obsidian
 of
 or
 off
+objects
 Example
 Home
 HH
@@ -49,6 +51,7 @@ Page
 Projects
 Permanent
 Programming
+Principle
 Areas
 Archives
 About
@@ -86,6 +89,7 @@ day
 depth
 dddd
 dfsdsdsadsdasdasd
+data
 Note
 Name
 Notes
@@ -101,14 +105,17 @@ MMMM
 May
 Content
 Coding
+Can
 Resources
 Resource
 Fleeting
 refined
 review
+represent
 be
 between
 jumping
+journal
 Use
 Sharp
 Snippet
@@ -116,3 +123,8 @@ Language
 Languages
 YYYY
 Word
+What
+used
+uses
+entries
+OOP
