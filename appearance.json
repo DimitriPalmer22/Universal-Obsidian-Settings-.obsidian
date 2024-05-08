@@ -9,6 +9,7 @@
   "textFontFamily": "JetBrains Mono,JetBrains Mono NL",
   "monospaceFontFamily": "",
   "enabledCssSnippets": [
-    "Colored Sidebar Items"
+    "Colored Sidebar Items",
+    "CyanVoxel's General Tweaks"
   ]
 }
