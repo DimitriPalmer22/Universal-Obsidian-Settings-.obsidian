@@ -20,5 +20,6 @@
   "dataview",
   "obsidian-git",
   "execute-code",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-link-embed"
 ]
