@@ -7,5 +7,8 @@
   "baseFontSize": 16,
   "interfaceFontFamily": "JetBrains Mono,JetBrains Mono NL",
   "textFontFamily": "JetBrains Mono,JetBrains Mono NL",
-  "monospaceFontFamily": ""
+  "monospaceFontFamily": "",
+  "enabledCssSnippets": [
+    "Colored Sidebar Items"
+  ]
 }
