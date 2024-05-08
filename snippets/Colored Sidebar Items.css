@@ -285,21 +285,42 @@ these to suit your own folder structure and vault theme!
 
 /* ------------------------------- Template Prefix -------------------------------- */
 .nav-folder-title[data-path^="Templates"] {
-	color: var(--cool-gray);
-	--nav-item-color-hover: color-mix(in srgb, var(--cool-gray) var(--fg-contrast-amount), var(--contrast-color));
-	--nav-item-background-hover: color-mix(in srgb, var(--cool-gray) var(--bg-contrast-amount), transparent);
-	--background-modifier-border-focus: color-mix(in srgb, var(--cool-gray) 40%, transparent);
-	--nav-collapse-icon-color: color-mix(in srgb, var(--cool-gray) 60%, transparent);
+	color: var(--purple);
+	--nav-item-color-hover: color-mix(in srgb, var(--purple) var(--fg-contrast-amount), var(--contrast-color));
+	--nav-item-background-hover: color-mix(in srgb, var(--purple) var(--bg-contrast-amount), transparent);
+	--background-modifier-border-focus: color-mix(in srgb, var(--purple) 40%, transparent);
+	--nav-collapse-icon-color: color-mix(in srgb, var(--purple) 60%, transparent);
 }
-.nav-folder-title[data-path^="99"]:hover {
-	--nav-collapse-icon-color: color-mix(in srgb, var(--cool-gray) 60%, var(--contrast-color));
+.nav-folder-title[data-path^="Templates"]:hover {
+	--nav-collapse-icon-color: color-mix(in srgb, var(--purple) 60%, var(--contrast-color));
 }
-.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="99"]) {
-	--nav-indentation-guide-color: color-mix(in srgb, var(--cool-gray) var(--medium-contrast-amount), transparent);
+.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="Templates"]) {
+	--nav-indentation-guide-color: color-mix(in srgb, var(--purple) var(--medium-contrast-amount), transparent);
 }
-.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="99"]) .nav-file-title {
-	color: color-mix(in srgb, var(--cool-gray) var(--medium-contrast-amount), var(--default-text-color));
-	--nav-item-background-hover: color-mix(in srgb, color-mix(in srgb, var(--cool-gray) 50%, var(--highlight)) var(--bg-contrast-amount), transparent);
-	--background-modifier-border-focus: color-mix(in srgb, var(--cool-gray) 40%, transparent);
-	--nav-item-background-active: color-mix(in srgb, var(--cool-gray) var(--active-contrast-amount), transparent);
+.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="Templates"]) .nav-file-title {
+	color: color-mix(in srgb, var(--purple) var(--medium-contrast-amount), var(--default-text-color));
+	--nav-item-background-hover: color-mix(in srgb, color-mix(in srgb, var(--purple) 50%, var(--highlight)) var(--bg-contrast-amount), transparent);
+	--background-modifier-border-focus: color-mix(in srgb, var(--purple) 40%, transparent);
+	--nav-item-background-active: color-mix(in srgb, var(--purple) var(--active-contrast-amount), transparent);
+}
+
+/* ------------------------------- Excalidraw Prefix -------------------------------- */
+.nav-folder-title[data-path^="Excalidraw"] {
+	color: var(--lime);
+	--nav-item-color-hover: color-mix(in srgb, var(--lime) var(--fg-contrast-amount), var(--contrast-color));
+	--nav-item-background-hover: color-mix(in srgb, var(--lime) var(--bg-contrast-amount), transparent);
+	--background-modifier-border-focus: color-mix(in srgb, var(--lime) 40%, transparent);
+	--nav-collapse-icon-color: color-mix(in srgb, var(--lime) 60%, transparent);
+}
+.nav-folder-title[data-path^="Excalidraw"]:hover {
+	--nav-collapse-icon-color: color-mix(in srgb, var(--lime) 60%, var(--contrast-color));
+}
+.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="Excalidraw"]) {
+	--nav-indentation-guide-color: color-mix(in srgb, var(--lime) var(--medium-contrast-amount), transparent);
+}
+.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="Excalidraw"]) .nav-file-title {
+	color: color-mix(in srgb, var(--lime) var(--medium-contrast-amount), var(--default-text-color));
+	--nav-item-background-hover: color-mix(in srgb, color-mix(in srgb, var(--lime) 50%, var(--highlight)) var(--bg-contrast-amount), transparent);
+	--background-modifier-border-focus: color-mix(in srgb, var(--lime) 40%, transparent);
+	--nav-item-background-active: color-mix(in srgb, var(--lime) var(--active-contrast-amount), transparent);
 }
