@@ -1,0 +1,10 @@
+{
+  "waypoint:go_to_parent_waypoint": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowUp"
+    }
+  ]
+}
