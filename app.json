@@ -1,4 +1,7 @@
 {
   "showInlineTitle": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "rightToLeft": false,
+  "newFileLocation": "current"
 }
