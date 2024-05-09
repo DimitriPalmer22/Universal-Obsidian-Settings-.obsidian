@@ -22,5 +22,7 @@
   "execute-code",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-link-embed",
-  "waypoint"
+  "waypoint",
+  "obsidian-linter",
+  "highlightr-plugin"
 ]
