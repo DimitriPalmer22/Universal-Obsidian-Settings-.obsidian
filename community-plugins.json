@@ -25,5 +25,6 @@
   "waypoint",
   "obsidian-linter",
   "highlightr-plugin",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "obsidian-shellcommands"
 ]
