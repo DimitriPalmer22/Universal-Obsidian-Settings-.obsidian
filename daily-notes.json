@@ -1,5 +1,6 @@
 {
-  "folder": "06 - Daily/2024/06-02 - 06-08",
+  "folder": "06 - Daily/",
   "autorun": true,
-  "template": ""
+  "template": "Templates/Templater/05 - Daily Note",
+  "format": ""
 }
