@@ -1,6 +1,11 @@
 .daily-note {
-    background-image: url(https://t3.ftcdn.net/jpg/04/03/20/28/360_F_403202808_2N24mwHso6kU3kmnxW5ACQM90umF8Xd0.jpg);
+    /* background-image: url(https://t3.ftcdn.net/jpg/04/03/20/28/360_F_403202808_2N24mwHso6kU3kmnxW5ACQM90umF8Xd0.jpg); */
+    background-image: url(https://wallpapers.com/images/hd/notebook-paper-background-q9ux3ewql4qxfk50.jpg);
     overflow: hidden;
     position: relative;
-    opacity: 1;
+    opacity: 0.;
+}
+
+.side-dock-ribbon {
+    flex: 0 0 0;
 }
