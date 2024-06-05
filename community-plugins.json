@@ -26,5 +26,6 @@
   "obsidian-linter",
   "highlightr-plugin",
   "obsidian-tasks-plugin",
-  "obsidian-shellcommands"
+  "obsidian-shellcommands",
+  "slurp"
 ]
