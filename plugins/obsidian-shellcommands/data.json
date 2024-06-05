@@ -54,8 +54,9 @@
       "output_handling_mode": "buffered",
       "execution_notification_mode": null,
       "events": {
-        "on-active-leaf-changed": {
-          "enabled": true
+        "every-n-seconds": {
+          "enabled": true,
+          "seconds": 3600
         }
       },
       "debounce": null,
