@@ -27,5 +27,6 @@
   "highlightr-plugin",
   "obsidian-tasks-plugin",
   "obsidian-shellcommands",
-  "slurp"
+  "slurp",
+  "todoist-sync-plugin"
 ]
