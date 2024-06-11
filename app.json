@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "showLineNumber": false,
   "rightToLeft": false,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "showRibbon": false
 }
