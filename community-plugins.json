@@ -28,5 +28,6 @@
   "obsidian-tasks-plugin",
   "obsidian-shellcommands",
   "slurp",
-  "todoist-sync-plugin"
+  "todoist-sync-plugin",
+  "obsidian-dictionary-plugin"
 ]
