@@ -6,3 +6,5 @@ real
 ready
 reason
 schedule
+was
+Wash
