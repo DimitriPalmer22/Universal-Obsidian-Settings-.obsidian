@@ -8,3 +8,6 @@ reason
 schedule
 was
 Wash
+WASD
+Waseda
+Washington
