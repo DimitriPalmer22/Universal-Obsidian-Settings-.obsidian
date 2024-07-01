@@ -11,3 +11,9 @@ Wash
 WASD
 Waseda
 Washington
+hand
+Hang
+handle
+Handle
+HANDLE
+handles
