@@ -29,5 +29,6 @@
   "obsidian-shellcommands",
   "slurp",
   "todoist-sync-plugin",
-  "obsidian-dictionary-plugin"
+  "obsidian-dictionary-plugin",
+  "github-copilot"
 ]
