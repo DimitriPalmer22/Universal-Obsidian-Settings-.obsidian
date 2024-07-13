@@ -4,5 +4,12 @@
   "showLineNumber": false,
   "rightToLeft": false,
   "newFileLocation": "current",
-  "showRibbon": true
+  "showRibbon": true,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
