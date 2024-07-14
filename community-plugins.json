@@ -1,7 +1,6 @@
 [
   "calendar",
   "obsidian-excalidraw-plugin",
-  "obsidian-spaced-repetition",
   "templater-obsidian",
   "obsidian-smart-typography",
   "homepage",
@@ -11,11 +10,9 @@
   "obsidian-text-format",
   "tag-wrangler",
   "settings-search",
-  "obsidian-importer",
   "omnisearch",
   "obsidian-doubleshift",
   "obsidian-git",
-  "execute-code",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-link-embed",
   "waypoint",
@@ -23,7 +20,5 @@
   "highlightr-plugin",
   "obsidian-tasks-plugin",
   "obsidian-shellcommands",
-  "slurp",
-  "todoist-sync-plugin",
   "github-copilot"
 ]
