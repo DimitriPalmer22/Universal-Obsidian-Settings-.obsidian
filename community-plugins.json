@@ -20,5 +20,6 @@
   "highlightr-plugin",
   "obsidian-tasks-plugin",
   "obsidian-shellcommands",
-  "github-copilot"
+  "github-copilot",
+  "tasks-calendar-wrapper"
 ]
