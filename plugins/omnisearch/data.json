@@ -3,6 +3,7 @@
   "hideExcluded": false,
   "downrankedFoldersFilters": [],
   "ignoreDiacritics": true,
+  "ignoreArabicDiacritics": false,
   "indexedFileTypes": [
     "txt",
     "cs",
@@ -14,9 +15,11 @@
     "ts",
     ""
   ],
+  "displayTitle": "",
   "PDFIndexing": false,
   "officeIndexing": false,
   "imagesIndexing": false,
+  "aiImageIndexing": false,
   "unsupportedFilesIndexing": "no",
   "splitCamelCase": true,
   "openInNewPane": false,
@@ -42,5 +45,6 @@
   "httpApiNotice": true,
   "welcomeMessage": "1.21.0",
   "verboseLogging": false,
-  "DANGER_httpHost": null
+  "DANGER_httpHost": null,
+  "DANGER_forceSaveCache": false
 }

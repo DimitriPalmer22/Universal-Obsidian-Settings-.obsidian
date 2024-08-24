@@ -1,5 +1,5 @@
 {
-  "nodePath": "/usr/local/bin/node",
+  "nodePath": "/usr/bin/node",
   "enabled": true,
   "hotkeys": {
     "accept": "Tab",

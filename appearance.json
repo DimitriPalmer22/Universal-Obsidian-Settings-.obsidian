@@ -1,7 +1,7 @@
 {
-  "accentColor": "#7f5f5f",
-  "theme": "moonstone",
-  "cssTheme": "Border",
+  "accentColor": "#d8dee9",
+  "theme": "obsidian",
+  "cssTheme": "Obsidian Nord",
   "baseFontSizeAction": false,
   "showViewHeader": true,
   "baseFontSize": 16,

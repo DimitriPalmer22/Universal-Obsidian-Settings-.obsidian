@@ -17,3 +17,11 @@ handle
 Handle
 HANDLE
 handles
+should
+settings
+set
+Set
+sets
+calculated
+setup
+Setup
