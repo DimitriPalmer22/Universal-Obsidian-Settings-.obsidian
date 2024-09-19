@@ -17,5 +17,6 @@
   "deviceSpecificSettings": [
     "nodePath"
   ],
-  "useDeviceSpecificSettings": false
+  "useDeviceSpecificSettings": false,
+  "proxy": ""
 }
